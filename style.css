@@ -1,0 +1,21 @@
+ol:nth-last-child() {
+  color: blueviolet;
+}
+.hang {
+  width: 100%;
+}
+.hang1 {
+  float: right;
+  background-color: blue;
+  width: auto;
+}
+.hang2 {
+  float: right;
+  background-color: black;
+  width: auto;
+}
+.hang3 {
+  float: right;
+  background-color: brown;
+  width: auto;
+}
